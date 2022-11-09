@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app Project with Django
+Simple REST API Project with Python, Django REST Framework and Docker using Test Driven Development (TDD).
